@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssmbookappointment:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ssmbookappointment.war">
+      <element id="artifact" artifact-name="ssmbookappointment:war exploded" />
+    </root>
+  </artifact>
+</component>
